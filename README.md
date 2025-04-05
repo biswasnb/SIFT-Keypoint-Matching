@@ -5,3 +5,5 @@ This project demonstrates how to detect and match keypoints between two images u
 ## Features
 - Load and process two grayscale images
 - Detect keypoints using SIFT
+- Match features using FLANN and Lowe's ratio test
+- Visualize the best matches
